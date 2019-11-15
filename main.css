@@ -17,32 +17,126 @@
 	
 
 }
-img{
+.lp{
 	color: white;
 	z-index: 1;
-	margin-top: 10px;
+	margin-top: 5px;
 	margin-left: 20px;
 }
-.l2{
+a{
 	height: 20px;
 
-	color: #FFFFFF;	
+	
 	font-family: Montserrat;	
 	font-size: 14px;	
 	line-height: 20px;
-	margin-left: 800px;
+	margin-left: 900px;
 
 	
 }
 button{
-	height: 40px;
-	width: 200px; 
+	height: 40px;	width: 150px;
 	background: #4CAF50;
 	color:  #FFFFFF;	
 	border: 2px solid  #FFFFFF;	
 	
 }
 
+li *{
+	vertical-align: middle;
+}
 .l1{
+border: 1px solid #FFFFFF;
+height: 50px;
 
+
+}
+.tabla{
+
+	height: 34px;	
+	width: 257px;	
+	background-color: #FFFFFF;
+
+}
+
+	
+
+ul{
+	height: 854px;	width: 257px;	
+	background-color: #FFFFFF;	
+	box-shadow: 0 3px 29px 0 rgba(0,0,0,0.26);
+}
+
+h2{
+	height: 27px;	
+	width: 145px;	
+	color: #000000;	
+	font-family: Montserrat;	
+	font-size: 22px;	
+	font-weight: bold;	
+	letter-spacing: -0.14px;	
+	line-height: 27px;
+}
+.contacto{
+	height: 90px;
+	width: 1173px;	
+	background-color: #FFFFFF;
+	margin-left: 19%;
+	
+}
+.formulario{
+	height: 688px;	
+	width: 79%;	
+	background-color: #FFFFFF;	
+	box-shadow: 5px 6px 35px 0 rgba(0,0,0,0.26);
+	margin-left: 280px;
+	margin-bottom: 30px;
+}
+
+h1{
+	margin-left: 30px;
+	
+}
+p{
+	margin-left: 30px;
+	height: 27px;
+}
+label{
+	margin-left: 20px;
+	position: absolute;
+	margin-top: -13px;
+	background: #FFFFFF;
+}
+.tipo{
+	width: 40%;
+	float: left;
+	padding: 35px;
+}
+.formula{
+	width: 60%;
+	float: left;
+	padding: 35px;
+}
+
+.nombre{
+	padding: 18px;
+}
+.mensaje{
+	padding: 18px;
+	
+}
+.bt{
+	margin-left: 83%;
+}
+
+body{
+	background: #ECECEC;
+}
+.lo{
+	padding: 20px;
+}
+.ancla{
+	color: #FFFFFF;	
+	margin-top: 7px;
+	margin-right: 6px;
 }
